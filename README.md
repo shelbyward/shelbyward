@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Shelby 👋
 
-<!--
-**shelbyward/shelbyward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 IT Professional | Data Analytics | AI Enthusiast  
+🇺🇸 Air National Guard  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 Currently working at Accenture
+- 🌱 Learning Agentic AI & Automation
+- 📊 Strong in Data Analytics & Visualization
+- 🎯 Goal: Transition into advanced AI / Data roles
+
+---
+
+## 🛠️ Skills
+- Programming: Python, SQL
+- Data: Power BI, Excel
+- Tools: Git, GitHub
+- Interests: AI, Automation, Data Analytics
+
+---
+
+## 📌 Featured Projects
+- 📊 Coming soon...
+- 🤖 Coming soon...
+- 📈 Coming soon...
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: (add your link)
+- Email: (optional)
+
+---
+
+⭐ *Always building and learning*
