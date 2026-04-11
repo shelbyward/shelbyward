@@ -14,8 +14,9 @@ I specialize in building tools that turn data into actionable insights and impro
 
 ## 🛠️ Technical Skills
 **Languages:** Python, SQL  
-**Data & Analytics:** Power BI, Excel  
-**Tools:** Git, GitHub  
+**Data Platforms:** BigQuery, Databricks
+**Visualization:** Power BI, Looker, Tableau, Excel  
+**Tools:** Git, GitHub, GitLab, VS Code, Copilot, Cursor, Claude  
 **Focus Areas:** Data Analytics, AI Automation  
 
 ---
@@ -41,6 +42,6 @@ Developed a dashboard to track spending, budgeting, and financial trends.
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: (add link)
+- LinkedIn: ([add link](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav))
 
 💡 Open to opportunities in data analytics and AI-focused roles
