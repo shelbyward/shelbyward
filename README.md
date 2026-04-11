@@ -29,7 +29,7 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/shelby-ward-25b-53223a
+- LinkedIn: https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav
 - Email: personalemailcoding@gmail.com
 
 ---
