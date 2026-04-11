@@ -13,11 +13,11 @@ I specialize in building tools that turn data into actionable insights and impro
 ---
 
 ## 🛠️ Technical Skills
-**Languages:** Python, SQL
-**Data Platforms:** BigQuery, Databricks
-**Visualization:** Power BI, Looker, Tableau, Excel
-**Tools:** Git, GitHub, GitLab, VS Code, Copilot, Cursor, Claude
-**Focus Areas:** Data Analytics, AI Automation
+**Languages:** Python, SQL  
+**Data Platforms:** BigQuery, Databricks  
+**Visualization:** Power BI, Looker, Tableau, Excel  
+**Tools:** Git, GitHub, GitLab, VS Code, Copilot, Cursor, Claude  
+**Focus Areas:** Data Analytics, AI Automation  
 
 ---
 
