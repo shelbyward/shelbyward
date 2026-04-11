@@ -1,7 +1,6 @@
 # Hi, I'm Shelby 👋
 
-💼 IT Professional | Data Analytics | AI Enthusiast  
-🇺🇸 Air National Guard  
+💼 IT Professional | Data Analytics | AI Enthusiast | Air National Guard  
 
 ---
 
@@ -14,9 +13,10 @@
 ---
 
 ## 🛠️ Skills
-- Programming: Python, SQL
-- Data: Power BI, Excel
-- Tools: Git, GitHub
+- Languages: Python, SQL
+- Data Platforms: BigQuery, Databricks
+- Visualization: Power Bi, Looker, Tableau
+- Tools: GitLab, VS Code, Copilot, Cursor, Claude
 - Interests: AI, Automation, Data Analytics
 
 ---
@@ -29,8 +29,8 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: (add your link)
-- Email: (optional)
+- LinkedIn: https://www.linkedin.com/in/shelby-ward-25b-53223a
+- Email: personalemailcoding@gmail.com
 
 ---
 
