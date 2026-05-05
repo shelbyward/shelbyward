@@ -45,6 +45,6 @@ Developed a dashboard to track spending, budgeting, and financial trends.
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: ([LinkedIn Profile](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav))
+- LinkedIn: [Shelby Ward](https://www.linkedin.com/in/shelby-ward-25b53223a/)
 
 💡 Open to opportunities in data analytics and AI-focused roles
